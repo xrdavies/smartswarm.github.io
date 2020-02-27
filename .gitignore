@@ -5,3 +5,4 @@ Gemfile.lock
 *.gem
 vendor
 vender
+.jekyll-cache
